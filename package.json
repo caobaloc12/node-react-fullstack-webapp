@@ -1,0 +1,31 @@
+{
+  "name": "react-fullstack-webapp",
+  "version": "1.0.0",
+  "description": "Build and deploy fullstack web apps with NodeJS, React and MongoDB.",
+  "main": "index.js",
+  "engines": {
+    "node": "8.1.1",
+    "npm": "5.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locronaldo/node-react-fullstack-webapp.git"
+  },
+  "keywords": [
+    "fullstack",
+    "nodejs",
+    "react"
+  ],
+  "author": "locronaldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locronaldo/node-react-fullstack-webapp/issues"
+  },
+  "homepage": "https://github.com/locronaldo/node-react-fullstack-webapp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
